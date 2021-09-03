@@ -1,0 +1,16 @@
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.exe
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.deps.json
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.runtimeconfig.json
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.runtimeconfig.dev.json
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.dll
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\ref\NavigationMenu.dll
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\bin\Debug\net5.0\NavigationMenu.pdb
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.csproj.AssemblyReference.cache
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.AssemblyInfoInputs.cache
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.AssemblyInfo.cs
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.csproj.CoreCompileInputs.cache
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.dll
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\ref\NavigationMenu.dll
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.pdb
+C:\Users\dukos\Desktop\Task1\NavigationMenu\NavigationMenu\obj\Debug\net5.0\NavigationMenu.genruntimeconfig.cache
